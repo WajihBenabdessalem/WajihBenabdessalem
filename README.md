@@ -3,7 +3,7 @@
   Wajih Benabdessalem | Senior iOS Developer
 </h1>
 
-<h3 align="center">Swift Architect • Mobile DevOps Specialist • 9+ Years Crafting Scalable Apps</h3>
+<h3 align="center">iOS Software Engineer • Mobile DevOps Specialist • 9+ Years Crafting Scalable Apps</h3>
 
 <p align="center">
   <a href="mailto:wajih.abdes@gmail.com">
